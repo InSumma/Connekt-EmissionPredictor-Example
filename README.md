@@ -1,5 +1,5 @@
 # Connekt-EmissionPredictor-Example
-An example applicatie to call the Emission Prediction API
+An example applicatie to call the Emission Prediction API:
 https://emission.azurewebsites.net/docs/
 
 Run this project in visual studio. 
