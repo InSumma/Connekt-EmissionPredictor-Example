@@ -5,4 +5,4 @@ https://emission.azurewebsites.net/docs/
 This example is build in .NET Core 2. To try it, run this project in visual studio 2017:
 https://www.visualstudio.com/downloads/
 
-Before running the application set the ShopId and Password that you received in your invitation mail in the appsettings.json.
+Before running the application set the ShopId and Password in the appsettings.json, that you received in your invitation mail.
