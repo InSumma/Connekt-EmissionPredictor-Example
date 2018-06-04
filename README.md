@@ -1,4 +1,4 @@
-# Connekt-EmissionPredictor-Example
+# Thuiswinkel.org & Connekt - Emission Predictor example
 This is an example applicatie to call the Emission Prediction API. The API documentation can be found here:
 https://emission.azurewebsites.net/docs/
 
